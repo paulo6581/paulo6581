@@ -1,5 +1,5 @@
 ##  <h1 align="center">Hi!, I'm Paulo Roberto</h1>
-<div displau="flex">
+
 <div align="center">
   <a href="https://github.com/paulo6581">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo6581&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,7 @@
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-</div>
+
   ##
   
 <div align="center">
