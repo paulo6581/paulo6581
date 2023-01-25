@@ -2,15 +2,14 @@
                                             console.log("Hi!, I'm Paulo Roberto");
 ~~~
 
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=paulo6581&bg_color=0a0a0a&color=e845dd&line=42ffe9&point=20e963&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
   <a href="https://github.com/paulo6581">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulo6581&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo6581&layout=compact&langs_count=7&theme=radical"/>
+  <img height="151em" src="https://github-readme-stats.vercel.app/api?username=paulo6581&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo6581&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <br/>
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=paulo6581&bg_color=0a0a0a&color=e845dd&line=42ffe9&point=20e963&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
   
   <div style="display: inline_block" align="center"><br>
    <img align="center" alt="Paulo-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
