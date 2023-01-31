@@ -22,7 +22,7 @@
 </div>
   <br/>
   
-  <h1 align="center">studying technologies</h1>
+  <h1 align="center">Studying Technologies</h1>
   <div style="display: inline_block" align="center">
      <img align="center" alt="Paulo-Mongodb" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   </div>
