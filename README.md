@@ -2,8 +2,6 @@
                                             console.log("Hi!, I'm Paulo Roberto");
 ~~~
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=paulo6581&bg_color=0a0a0a&color=e845dd&line=42ffe9&point=20e963&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
   <a href="https://github.com/paulo6581">
   <img height="151em" src="https://github-readme-stats.vercel.app/api?username=paulo6581&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
